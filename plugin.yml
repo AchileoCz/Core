@@ -1,0 +1,5 @@
+name: Core
+version: INDEV
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
+main: core/Main
+author: NapolGamer TH @ AnuchitZaza
